@@ -10,7 +10,7 @@ spring:
   datasource: # 데이터 베이스 연결 설정
     driverClassName: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/chatting
-    username: chatting
+    username: root
     password: aA!123456
 
   jpa: # JPA 설정
